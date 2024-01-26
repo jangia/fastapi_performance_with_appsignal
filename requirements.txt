@@ -1,0 +1,7 @@
+appsignal
+fastapi[all]
+opentelemetry-instrumentation-fastapi
+aiohttp
+requests
+sqlalchemy
+psycopg2-binary
